@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Web Development",
+        "price": 1200,
+        "img": "https://i.postimg.cc/jq3nJWkk/Md-Rumman-Hasan-2022815.jpg",
+        "data": "Full-stack development service including frontend and backend."
+    },
+    {
+        "id": 2,
+        "serviceName": "Graphic Design",
+        "price": 800,
+        "img": "https://i.postimg.cc/jq3nJWkk/Md-Rumman-Hasan-2022815.jpg",
+        "data": "Custom graphics, branding, and logo design."
+    },
+    {
+        "id": 3,
+        "serviceName": "SEO Optimization",
+        "price": 500,
+        "img": "https://i.postimg.cc/jq3nJWkk/Md-Rumman-Hasan-2022815.jpg",
+        "data": "On-page and off-page SEO to improve search rankings."
+    },
+    {
+        "id": 4,
+        "serviceName": "Social Media Management",
+        "price": 300,
+        "img": "https://i.postimg.cc/jq3nJWkk/Md-Rumman-Hasan-2022815.jpg",
+        "data": "Managing social media accounts, creating posts, and engagement."
+    },
+    {
+        "id": 5,
+        "serviceName": "Content Writing",
+        "price": 150,
+        "img": "https://i.postimg.cc/jq3nJWkk/Md-Rumman-Hasan-2022815.jpg",
+        "data": "High-quality blog posts, articles, and website content."
+    }
+]

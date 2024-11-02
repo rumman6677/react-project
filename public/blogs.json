@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "title": "Senior Developer",
+        "description": "Specializes in front-end development and UI design.",
+        "image": "https://i.postimg.cc/jq3nJWkk/Md-Rumman-Hasan-2022815.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "title": "Project Manager",
+        "description": "Experienced in leading agile software development projects.",
+        "image": "https://i.postimg.cc/jq3nJWkk/Md-Rumman-Hasan-2022815.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Carol White",
+        "title": "Data Analyst",
+        "description": "Focuses on data visualization and statistical analysis.",
+        "image": "https://i.postimg.cc/jq3nJWkk/Md-Rumman-Hasan-2022815.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Alice Johnson",
+        "title": "Senior Developer",
+        "description": "Specializes in front-end development and UI design.",
+        "image": "https://i.postimg.cc/jq3nJWkk/Md-Rumman-Hasan-2022815.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bob Smith",
+        "title": "Project Manager",
+        "description": "Experienced in leading agile software development projects.",
+        "image": "https://i.postimg.cc/jq3nJWkk/Md-Rumman-Hasan-2022815.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Carol White",
+        "title": "Data Analyst",
+        "description": "Focuses on data visualization and statistical analysis.",
+        "image": "https://i.postimg.cc/jq3nJWkk/Md-Rumman-Hasan-2022815.jpg"
+    }
+]
